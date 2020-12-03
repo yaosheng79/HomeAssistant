@@ -10,8 +10,8 @@ root@S905W:/home/homeassistant/.homeassistant/custom_components/hello_miai# ls -
 修改配置文件configuration.yaml, 添加：
 ```
 hello_miai:
-        miid: '1863991862'
-        password: 'Abc12345'
+        miid: 你的miid
+        password: 你的密码
 ```
 重启HomeAssistant，可以看到：
 
