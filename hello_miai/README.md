@@ -15,3 +15,4 @@ hello_miai:
 ```
 重启HomeAssistant，可以看到：
 
+![screenshot](https://github.com/yaosheng79/HomeAssistant/blob/main/images/miai.png?raw=true)
